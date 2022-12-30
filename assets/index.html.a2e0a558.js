@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-be9095ca","path":"/tags/qianyi/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
