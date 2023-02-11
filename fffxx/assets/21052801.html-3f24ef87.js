@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-12fa0f7c","path":"/blogs/live/21052801.html","title":"端午返乡 📷","lang":"en-US","frontmatter":{"title":"端午返乡 📷","date":"2021/06/17","categories":["片刻之间"],"tags":["生活","端午"],"sticky":false,"isShowComments":false,"editLink":false},"headers":[],"git":{},"filePathRelative":"blogs/live/21052801.md"}');export{e as data};

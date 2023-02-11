@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-137cf8a6","path":"/blogs/example.html","title":"文章标题","lang":"en-US","frontmatter":{"title":"文章标题","date":"2088-08-08 08:00:00","sidebar":"auto","categories":null,"tags":[null],"keys":["e10adc3949ba59abbe56e057f20f883e"],"publish":false},"headers":[],"git":{},"filePathRelative":"blogs/example.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-eabff67c","path":"/blogs/live/21060501.html","title":"开始","lang":"en-US","frontmatter":{"title":"开始","date":"2021-06-05T00:00:00.000Z","categories":["感谢生活"],"tags":["开始"],"author":null,"sticky":true,"isShowComments":false,"editLink":false},"headers":[],"git":{},"filePathRelative":"blogs/live/21060501.md"}');export{e as data};
